@@ -1,5 +1,11 @@
 # Benvingut a La Nostra Pàgina
 ## Qui som?
-  -el projecte jllabres3.github.io es una modesta empresesa creada per suplir amb lo que podem les necesitats del nostres clients dins el mon de l'informatica. 
+  -el Projecte Jolia una modesta empresesa creada per suplir amb lo que podem les necesitats del nostres clients dins el mon de l'informatica. 
+  -En los siguientes enlaces podras encontrar los servicios y otra informacion que puedas necesitar.
 
-#<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
