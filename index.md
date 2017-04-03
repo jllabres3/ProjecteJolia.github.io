@@ -9,7 +9,7 @@
 
 <a href="https://jllabres3.github.io/classificacio.html"> No se que nombre ponerle a esto!</a>
 
-<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/horari.html">2ª part joan cerda sense finalitzar!</a>
 
 <a href="jllabres3.github.io/contacte.html">Contacta amb Nosaltres!</a>
 
