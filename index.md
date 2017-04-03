@@ -13,4 +13,4 @@
 
 <a href="jllabres3.github.io/contacte.html">Contacta amb Nosaltres!</a>
 
-<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="jllabres3.github.io/Copiright.html">Document Copyright</a>
