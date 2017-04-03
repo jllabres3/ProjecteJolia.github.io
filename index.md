@@ -1,7 +1,7 @@
 # Benvingut a La Nostra Pàgina
 ## Qui som?
-  -el Projecte Jolia una modesta empresesa creada per suplir amb lo que podem les necesitats del nostres clients dins el mon de l'informatica. 
-  -En els sigüentes enllaços podras trobar els serveis y altra informació que puguis necesitar.
+  -el Projecte Jolia una modesta empresesa creada per suplir amb lo que podem les necesitats del nostres clients dins el mon de l'informatica.<br/>
+  -En els següents enllaços podras trobar els serveis y altra informació que puguis necesitar.
 
 <a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
 
