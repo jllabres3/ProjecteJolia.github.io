@@ -5,9 +5,9 @@
 
 <a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
 
-<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/serveis.html">Visita el nostre horari!</a>
 
-<a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
+<a href="https://jllabres3.github.io/classificacio.html">Visita el nostre horari!</a>
 
 <a href="https://jllabres3.github.io/horari.html">Visita el nostre horari!</a>
 
