@@ -7,9 +7,9 @@
 
 <a href="https://jllabres3.github.io/serveis.html">Aqui encontraras nuestros servicios.</a>
 
-<a href="https://jllabres3.github.io/classificacio.html"> No se que nombre ponerle a esto!</a>
+<a href="https://jllabres3.github.io/benchmark.java"> Benchmark</a>
 
-<a href="https://jllabres3.github.io/resultatsjormada.html">2ª part joan cerda sense finalitzar!</a>
+<a href="https://jllabres3.github.io/resultatsjormada.html">Logo!</a>
 
 <a href="jllabres3.github.io/contacte.html">Contacta amb Nosaltres!</a>
 
