@@ -1,8 +1,9 @@
-# jllabres3.github.io
--Administracio de Sistemes i Xarxes.
+IES Pau Casesnoves
+==================
+
+CFGS Administració de Sistemes Informàtics en Xarxa
 
 
--Implementacio de Sistemes Operatius.
-
-
--Jolia grup.
+Prova
+-------
+Pràctica 2 Git
